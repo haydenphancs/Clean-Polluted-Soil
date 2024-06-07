@@ -1,7 +1,7 @@
 ## Description
 
 - In this simulation, the program starts a multi-year investigation of a square grid of polluted land.
-- We wanted to determine whether using plants to clean up this toxic waste spill site was advisable.
+- Determine whether using plants to clean up this toxic waste spill site was advisable.
 - Assume that plants can reproduce, grow, and die after each year. Also, Gopher as animals destroy crops. 
 
 ## Table of Contents
