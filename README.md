@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 - You can run this program on any working environment with C++ language.
 - Visual Studio, Xcode, GCC (GNU Compiler Collection),...
 - Suggest run with GCC:
-  + Check if you already installed GCC:
+  + Check if you have GCC installed:
     ```sh
     gcc --version
     ```
