@@ -49,8 +49,7 @@ Here are the basic steps to use run this program:
 
 ## Features
 - The user enter "Y/N" to run simulation, then show:
-
-           Main Menu
+                Main Menu
 ----------------------------------------
 1) View number of seeds produced, eaten, and died
 2) View cells visited by gophers
